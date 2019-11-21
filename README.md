@@ -1,1 +1,1 @@
-# GEOGW12LAB7
+# Map of My Favorite Destinations
